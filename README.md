@@ -2,6 +2,15 @@
 
 Done with the purpose of organizing the user's tasks, the user can organize the tasks in the way they want, mark as completed or delete
 
+<br>
+
+<p align="center">
+  
+![Task](https://user-images.githubusercontent.com/73910568/118312025-1e9c8d80-b4c7-11eb-863e-2fa3aeb01e91.gif)
+
+</p>
+
+<br>
 
 ### Prerequisites
 
