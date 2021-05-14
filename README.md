@@ -8,15 +8,14 @@ Done with the purpose of organizing the user's tasks, the user can organize the 
 Line-of-code editor
 
 ```
-recommend the: 
-
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+recommend Visual Studio Code
 
 ```
 
 ### Installation
 
 Project installation
+
 ```
 1. Open the terminal in the visual code;
 2. Enter gitcl, select the Git: Clone command and press Enter.
