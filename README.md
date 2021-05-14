@@ -9,7 +9,9 @@ Line-of-code editor
 
 ```
 recommend the: 
+
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+
 ```
 
 ### Installation
