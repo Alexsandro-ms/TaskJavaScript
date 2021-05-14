@@ -38,8 +38,3 @@ start"
 
 * [React JS](https://reactjs.org/) - The web framework used
 * [JavaScript](https://www.javascript.com/) - programming language
-
-
-## Agradecimentos
-
-* inspired : [Felipe Rocha](https://github.com/felipemotarocha)
