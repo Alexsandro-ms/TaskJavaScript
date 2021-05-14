@@ -12,11 +12,8 @@ Done with the purpose of organizing the user's tasks, the user can organize the 
 
 ### Deploy
 
-```
-
 Deploy done on heroku [App Tasks](https://task-javascript.herokuapp.com/)
 
-```
 
 ### Prerequisites
 
