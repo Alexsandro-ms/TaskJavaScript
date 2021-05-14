@@ -14,8 +14,6 @@ Done with the purpose of organizing the user's tasks, the user can organize the 
 
 Deploy done on heroku [App Tasks](https://task-javascript.herokuapp.com/)
 
-<br>
-
 ### Prerequisites
 
 Line-of-code editor
