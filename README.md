@@ -10,10 +10,6 @@ Done with the purpose of organizing the user's tasks, the user can organize the 
 
 </p>
 
-### Deploy
-
-Deploy done on heroku [App Tasks](https://task-javascript.herokuapp.com/)
-
 
 ### Prerequisites
 
@@ -41,3 +37,7 @@ start"
 
 * [React JS](https://reactjs.org/) - The web framework used
 * [JavaScript](https://www.javascript.com/) - programming language
+
+### Deploy
+
+Deploy done on heroku [App Tasks](https://task-javascript.herokuapp.com/)
