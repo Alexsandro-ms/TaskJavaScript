@@ -6,7 +6,7 @@ Done with the purpose of organizing the user's tasks, the user can organize the 
 
 <p align="center">
   
-![Task](https://user-images.githubusercontent.com/73910568/118312025-1e9c8d80-b4c7-11eb-863e-2fa3aeb01e91.gif)
+![Task App](https://user-images.githubusercontent.com/73910568/118312025-1e9c8d80-b4c7-11eb-863e-2fa3aeb01e91.gif)
 
 </p>
 
@@ -42,4 +42,4 @@ start"
 
 ## Agradecimentos
 
-*inspired : [Dicasparadevs](https://github.com/felipemotarocha)
+* inspired : [Felipe Rocha](https://github.com/felipemotarocha)
