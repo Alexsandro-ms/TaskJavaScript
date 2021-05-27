@@ -41,7 +41,7 @@ start"
 
 * [React JS](https://reactjs.org/) - The web framework used
 * [JavaScript](https://www.javascript.com/) - programming language
-* [Html5](https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/HTML5) - Makup language
+* [Html5](https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/HTML5) - Markup language
 * [Css3](https://css3.dynadot.com) - Style sheet
 
 ### Deploy
