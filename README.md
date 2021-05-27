@@ -13,15 +13,13 @@ Done with the purpose of organizing the user's tasks, the user can organize the 
 
 ### Prerequisites
 
-Line-of-code editor
-Browser
+Line-of-code editor <br>
+Browser <br>
 NodeJs
 
 ```
 recommend Visual Studio Code
-
 Chrome
-
 Reccent version NodeJs
 
 ```
