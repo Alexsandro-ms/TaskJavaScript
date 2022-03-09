@@ -43,7 +43,3 @@ Reccent version NodeJs
 * [React JS](https://reactjs.org/) - Framework usado.
 * [JavaScript](https://www.javascript.com/) - Linguagem usada.
 * [Css3](https://css3.dynadot.com) - Folha de estilo
-
-### Deploy
-
-Deploy feito no heroku [App Tasks](https://task-javascript.herokuapp.com/)
