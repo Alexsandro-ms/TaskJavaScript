@@ -1,6 +1,6 @@
 # Task React APP
 
-Done with the purpose of organizing the user's tasks, the user can organize the tasks in the way they want, mark as completed or delete
+Feito com a finalidade de organizar as tarefas do usuário, o usuário pode organizar as tarefas da forma que desejar, marcar como concluída ou excluir.
 
 <br>
 
@@ -11,39 +11,44 @@ Done with the purpose of organizing the user's tasks, the user can organize the 
 </p>
 
 
-### Prerequisites
+### Pre requisitos
 
-Line-of-code editor <br>
-Browser <br>
+Editor de codigo <br>
+Navegador <br>
 NodeJs
 
+<p align="center">
+  Recomendado:
+</p>
+
 ```
-recommend Visual Studio Code
+Visual Studio Code
 Chrome
 Reccent version NodeJs
 
 ```
 
-### Installation
+### Instalação
 
-Project installation
-
-```
-1. Open the terminal in the visual code;
-2. Enter gitcl, select the Git: Clone command and press Enter.
-3. When you are prompted to provide the repository URL, enter a URL from the GitHub repository and press Enter.
-4. after downloading the files, select the folder that was downloaded with visual studio,open the terminal and type "npm
-start"
+<p align="center">
+  Instalação do projeto
+ </p>
 
 ```
+1. Abra o terminal do visual studio code;
+2. Digite 'git clone https://github.com/Alexsandro-ms/TaskJavaScript.git';
+3. Apos acabar o download, abra a pasta no visual studio code.;
+4. Digite 'npm install' no terminal para instalar as dependêcias.
+5. Em seguida digite 'npm start' para iniciar o projeto.
 
-## Developed with
+```
 
-* [React JS](https://reactjs.org/) - The web framework used
-* [JavaScript](https://www.javascript.com/) - programming language
-* [Html5](https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/HTML5) - Markup language
-* [Css3](https://css3.dynadot.com) - Style sheet
+## Desenvolvido com
+
+* [React JS](https://reactjs.org/) - Framework usado.
+* [JavaScript](https://www.javascript.com/) - Linguagem usada.
+* [Css3](https://css3.dynadot.com) - Folha de estilo
 
 ### Deploy
 
-Deploy done on heroku [App Tasks](https://task-javascript.herokuapp.com/)
+Deploy feito no heroku [App Tasks](https://task-javascript.herokuapp.com/)
